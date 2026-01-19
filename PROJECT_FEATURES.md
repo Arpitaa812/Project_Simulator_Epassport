@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+ HEAD
 # Implemented Features
 ## T-02: Implement User Login Page
  This task involves creating a secure login process with email or phone number and password fields, followed by multi-factor authentication (MFA) using OTP verification, including validation and error handling.
@@ -14,6 +14,7 @@ Submit application for first-time passport. This involves creating the applicati
 Citizens upload required document, validated by the system
 **Status: Implemented**
 
+ feature/T-10
 "## T-10: Application Assign to Officer"
 "This task involves implementing the feature to assign an application to an officer. It includes selecting an officer, validating the assignment, and saving the assignment status in the system with proper error handling."
 "**Status: Implemented**"
@@ -132,4 +133,17 @@ Citizens upload required document, validated by the system
 | 14 | Biometric Scheduling | To Do | Low |
 | 15 | Audit Logs | To Do | Medium |
 -
->>>>>>> 9f1837a4ecb89437c652ef9b7d600aace66a6fd3
+9f1837a4ecb89437c652ef9b7d600aace66a6fd3
+=======
+## T-11: Application Review & Verification
+This task involve implementing the application and verification process.
+**Status: Implemented**
+
+## T-12: Approve & Reject Application 
+This task involves implementing the approve and reject application functionality, including status updates, validation, and proper error handling.
+**Status: Implemented**
+## N-11: Application status tracking
+Citizen can track process in real time
+*Status: Implemented*
+
+ dev
