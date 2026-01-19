@@ -154,3 +154,7 @@ Prevent multiple submissions of the same application.
 =======
  dev
 >>>>>>> dev
+## T-14:Audit Log Management
+ Maintain logs of user actions and system activities for security and complaince.
+**Status: Implemented**
+
