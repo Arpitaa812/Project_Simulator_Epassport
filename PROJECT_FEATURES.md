@@ -154,3 +154,7 @@ Prevent multiple submissions of the same application.
 =======
  dev
 >>>>>>> dev
+## T-13: Automated Notifications
+System sends updates to citizens(application status, payment confirmation)
+**Status: Implemented**
+
