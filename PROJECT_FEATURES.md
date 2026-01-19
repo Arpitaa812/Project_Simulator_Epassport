@@ -13,3 +13,7 @@ Submit application for first-time passport. This involves creating the applicati
 Citizens upload required document, validated by the system
 **Status: Implemented**
 
+## N-10: Duplicate application detection
+Privent multiple submissions of the same application
+*Status: Implemented*
+
