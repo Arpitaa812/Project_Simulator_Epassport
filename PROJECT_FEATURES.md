@@ -13,3 +13,7 @@ Submit application for first-time passport. This involves creating the applicati
 Citizens upload required document, validated by the system
 **Status: Implemented**
 
+## T-11: Application Review & Verification
+This task involve implementing the application and verification process.
+**Status: Implemented**
+
