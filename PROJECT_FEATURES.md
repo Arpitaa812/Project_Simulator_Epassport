@@ -1,24 +1,3 @@
-<<<<<<< HEAD
-# Implemented Features
-## T-02: Implement User Login Page
- This task involves creating a secure login process with email or phone number and password fields, followed by multi-factor authentication (MFA) using OTP verification, including validation and error handling.
-**Status: Implemented**
-
-## T-3: Implement profile view and update
- This task involves developing a profile management feature that allows users to view and update their personal information, with input validation and proper error handling.
-## T-01: Apply For new Passport
-Submit application for first-time passport. This involves creating the application form and validating user inputs.
-**Status: Implemented**
-
-## T-5: Document Upload and validation
-Citizens upload required document, validated by the system
-**Status: Implemented**
-
-"## T-10: Application Assign to Officer"
-"This task involves implementing the feature to assign an application to an officer. It includes selecting an officer, validating the assignment, and saving the assignment status in the system with proper error handling."
-"**Status: Implemented**"
-""
-=======
 # E-Passport Application System - Feature List
 
 ##  User Management & Authentication
@@ -132,4 +111,3 @@ Citizens upload required document, validated by the system
 | 14 | Biometric Scheduling | To Do | Low |
 | 15 | Audit Logs | To Do | Medium |
 -
->>>>>>> 9f1837a4ecb89437c652ef9b7d600aace66a6fd3
