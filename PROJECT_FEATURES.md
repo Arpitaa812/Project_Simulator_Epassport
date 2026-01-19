@@ -24,3 +24,7 @@ This task involves implementing the approve and reject application functionality
 Citizen can track process in real time
 *Status: Implemented*
 
+## N-10: Duplicate application detection
+Prevent multiple submissions of the same application.
+*Status: Implemented*
+
