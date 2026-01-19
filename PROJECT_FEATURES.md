@@ -17,3 +17,7 @@ Citizens upload required document, validated by the system
 This task involve implementing the application and verification process.
 **Status: Implemented**
 
+## T-12: Approve & Reject Application 
+This task involves implementing the approve and reject application functionality, including status updates, validation, and proper error handling.
+**Status: Implemented**
+
