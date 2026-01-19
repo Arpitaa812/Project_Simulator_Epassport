@@ -17,3 +17,7 @@ Citizens upload required document, validated by the system
 This task involve implementing the application and verification process.
 **Status: Implemented**
 
+## N-11: Application status tracking
+Citizen can track process in real time
+*Status: Implemented*
+
