@@ -13,3 +13,7 @@ Submit application for first-time passport. This involves creating the applicati
 Citizens upload required document, validated by the system
 **Status: Implemented**
 
+"## T-10: Application Assign to Officer"
+"This task involves implementing the feature to assign an application to an officer. It includes selecting an officer, validating the assignment, and saving the assignment status in the system with proper error handling."
+"**Status: Implemented**"
+""
