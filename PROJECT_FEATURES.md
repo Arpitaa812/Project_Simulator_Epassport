@@ -154,3 +154,7 @@ Prevent multiple submissions of the same application.
 =======
  dev
 >>>>>>> dev
+## T-15: Automated Notifications
+System sends updates to citizens(application stattus,payment confirmation).
+**Status: Implemented**
+
